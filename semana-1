@@ -1,0 +1,6 @@
+git init
+git add .
+git commit -m "Actividad semana 1"
+git branch -M main
+git remote add origin URL_DE_TU_REPOSITORIO
+git push -u origin main
