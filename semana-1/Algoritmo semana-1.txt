@@ -1,0 +1,15 @@
+Compartir una noticia
+
+- Entra a tu navegador favorito
+- Busca la noticia
+- Verifica la fuente
+- La fecha
+- Credenciales 
+- Compara la noticia con información de paginas gubernamentales, educativas o medios respaldados
+- La noticia es verdadera
+- Si
+- Compartes la noticia
+- No
+- No compartes la noticia
+- Buscas otra noticia
+- Fin.
