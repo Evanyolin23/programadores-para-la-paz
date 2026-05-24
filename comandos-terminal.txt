@@ -1,0 +1,11 @@
+Comandos semana 2:
+
+mkdir
+ls
+cat
+cd
+nano
+touch
+Ctrl O
+Ctrl X
+
