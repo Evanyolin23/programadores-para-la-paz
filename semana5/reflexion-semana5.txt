@@ -1,0 +1,7 @@
+Las APIs transforman el flujo de información comunitaria al actuar como puentes digitales que automatizan y estandarizan la recepción de datos.
+En lugar de lidiar con reportes caóticos en chats informales, una API recopila mensajes, formularios o alertas de diversas fuentes y los unifica en una sola base de datos organizada por categorías, horarios y coordenadas geográficas.
+Asimismo, agilizan la respuesta colectiva mediante la automatización: si se detecta un riesgo, la API puede disparar notificaciones masivas instantáneas a los celulares de los vecinos o redirigir el caso directamente a los servicios de emergencia locales.
+Finalmente, facilitan la transparencia al conectar esos datos con mapas interactivos públicos y paneles de seguimiento visuales.
+Así, las APIs convierten la comunicación comunitaria en una red estructurada, eficiente y auditable, permitiendo que el reporte de un ciudadano se traduzca de inmediato en una acción coordinada.
+
+
