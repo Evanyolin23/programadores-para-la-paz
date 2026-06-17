@@ -1,0 +1,10 @@
+1. Autenticacion de dos factores (2FA): Exigir un codigo dinamico adicional a la contraseña, para evitar que un atacante que consiga la contraseña no pueda tomar control de la plataforma.
+
+2.Principio de Mínimo Privilegio: Configurar roles estrictos (Vecino, Moderador, Administrador) donde cada usuario tenga solo los accesos necesarios para sus tareas.
+
+3. Anonimato y difuminado de datos: nunca mostrar datos privados, nada de nombres, direccion o coordenadas exactas.
+
+4. Sanitization: Limpiar todos los textos o archivos subidos a los formularios y APIs. Muchos hackers envian codigos ocultos en los textos que alteran el sistema o las bases de datos.
+
+5. Cifrado de datos: Guardar las contraseñas de manera encriptada, que todos los datos sensibles se guarden encriptados mediante algoritmos.
+

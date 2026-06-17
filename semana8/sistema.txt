@@ -1,0 +1,17 @@
+La informacion que muestra el comando es:
+
+$ uname -a
+MINGW64_NT-10.0-26200 IanArturo 3.6.7-fb42d713.x86_64 2026-03-29 11:44 UTC x86_64 Msys
+
+Este comando muestra toda la información del sistema operativo, el nombre del servidor, la versión del Kernel de Linux y la arquitectura del procesador.
+Compatibilidad de software: Antes de instalar una base de datos o dependencias para tus APIs, necesitas saber si el sistema es de 64 bits (x86_64) o si usa otra arquitectura.
+Seguridad y parches: Te permite verificar qué versión exacta del Kernel se está ejecutando para saber si el servidor es vulnerable a fallos de seguridad recientes y necesita actualizarse.
+Despliegue e infraestructura: Te asegura que estás en el entorno correcto (por ejemplo, distinguiendo si estás en el servidor de pruebas o en el de producción si los nombres de host están bien configurados).
+
+
+y al darle whoami me muestra mi nombre de usuario donde se guarda todo:
+
+$ whoami
+evany
+
+Este comando responde a la pregunta "¿quién soy yo?", devolviendo el nombre del usuario con el que tienes la sesión iniciada.
