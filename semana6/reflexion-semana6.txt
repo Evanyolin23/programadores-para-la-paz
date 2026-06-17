@@ -1,0 +1,7 @@
+Porque permiten procesar, analizar y automatizar sistemas de manera rapida y eficiente.
+Cuando la informacion se estructura se evida revisiones manuales, reduce el tiempo y facilita tomar decisiones basado en los datos, asi poder mejorar los servicios publicos.
+Los algoritmos pueden clasificar y priorizar problemas, por ejemplo un hueco en una via principal tiene mayor importancia que en una via cerrada y se pueden utilizar herramientas de mapeo ciudadano para el seguimiento de los problemas.
+Los servidores publicos no tienen que leer cada mensaje y colocarlo en la categoria correspondiente ya que al automatizar este proceso se crean respuestas mas rapidas.
+Transparencia y seguimiento, permite crear tableros públicos que muestran el estado de los reportes, lo que fomenta la confianza y la rendición de cuentas.
+
+

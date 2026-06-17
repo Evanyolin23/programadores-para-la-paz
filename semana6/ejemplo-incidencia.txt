@@ -1,0 +1,13 @@
+JSON ejemplo:
+
+{
+  "tipo": "Basura acumulada",
+  "descripcion": "Los vecinos reportan acumulación de residuos en la esquina principal del barrio desde hace una semana."
+}
+
+Otro ejemplo:
+
+{
+  "tipo": "Iluminación pública",
+  "descripcion": "La comunidad reporta que una lámpara del parque no funciona desde hace varios días."
+}
