@@ -1,0 +1,22 @@
+Al enviar una petición POST a /reportes con un tipo y una descripción, el servidor guarda el reporte en memoria.
+
+Cuando se consulta la ruta GET /reportes, el servidor devuelve un arreglo con todos los reportes registrados hasta ese momento.
+
+Por ejemplo, después de registrar:
+
+{
+  "tipo": "Infraestructura",
+  "descripcion": "Daño en alumbrado público"
+}
+
+La consulta GET /reportes devuelve:
+
+[
+  {
+    "id": 1,
+    "tipo": "Infraestructura",
+    "descripcion": "Daño en alumbrado público"
+  }
+]
+
+Esto permite visualizar los reportes que han sido enviados por la comunidad.
