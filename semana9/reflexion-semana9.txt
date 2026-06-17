@@ -1,0 +1,6 @@
+La estabilidad y seguridad de un servidor son los cimientos técnicos que sostienen la confianza y la viabilidad de cualquier plataforma comunitaria.
+Si el servidor experimenta caídas constantes, la comunidad pierde una herramienta de comunicación crucial en momentos críticos, como la emisión de alertas tempranas o emergencias vecinales, lo que genera frustración y abandono del sistema.
+Asimismo, un entorno de servidor robusto y seguro actúa como una barrera de defensa contra ciberataques que busquen alterar datos, duplicar reportes o secuestrar información vital para la toma de decisiones colectivas.
+Al garantizar la disponibilidad continua y la protección de los datos alojados, el servidor valida la legitimidad de los procesos participativos y resguarda la privacidad física y digital de los usuarios.
+En definitiva, la infraestructura tecnológica estable no es un lujo técnico, sino la garantía operativa indispensable para que el esfuerzo y la organización comunitaria se traduzcan en un impacto social real y sostenible.
+
