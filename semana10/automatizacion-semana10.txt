@@ -1,0 +1,11 @@
+Flujo de Automatización Simple (Semana 10)
+
+¿Qué evento activa el flujo?
+Registro de una nueva incidencia o reporte de infraestructura en la base de datos de la plataforma comunitaria (Nodo de base de datos en n8n).
+
+¿Qué mensaje se enviaría a Telegram?
+La acción que se realiza es: enviar un mensaje automatizado a través de un Bot de Telegram al canal de coordinación vecinal.
+Mensaje: "Alerta de incidencia: Se ha registrado un nuevo reporte de infraestructura en el sistema. ID del Reporte: #{{$json.id}}. Categoría: {{$json.categoria}}. Por favor, ingrese al panel administrativo para validar la información."
+
+¿Qué información no debería enviarse por seguridad?
+Nombres completos de los ciudadanos, números de cédula o documentos de identidad, direcciones residenciales, números de teléfono personales, contraseñas, tokens de acceso o cualquier dato sensible que pueda exponer la privacidad o seguridad física de la comunidad en un chat de Telegram.

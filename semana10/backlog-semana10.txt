@@ -1,0 +1,7 @@
+Historia 1: Veeduria de obras; Los ciudadanos rastrean proyectos de construcciones locales, suben fotos de avance real y denuncian las obras abandonadas.
+
+Historia 2: Reportes de infraestructura; Los vecinos reportan un daño en un espacio publico y los coordinadores de la junta comunal validan el reporte y envian la alerta a la entidad publica correspondiente.
+
+Historia 3: Gestión ambiental; Los ciudadanos encuentras vertederos de basura ilegales, problemas de contaminacion en fuentes de agua, realizan la denuncia y organizan una brigada de limpieza.
+
+Las historias van en el orden que considero que son prioridad.
