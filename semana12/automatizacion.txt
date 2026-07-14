@@ -1,0 +1,6 @@
+Evento: Nueva alerta ciudadana en la base de datos de la plataforma.
+Mensaje: "Nueva alerta registrada en la plataforma"
+Informacion que no se envia: ID del denunciante, nombres, apellidos, numero de la cedula.
+Ubicacion o datos privados, direccion residencial, numeros de telefono.
+Credenciales dentro del sistema como contraseñas, tokens de API, enlaces directos que evaden el login y autenticacion.
+

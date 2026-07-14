@@ -1,0 +1,9 @@
+Flujo:
+1. Se genera una problematica.
+2. Un vecino nota esta problematica.
+3. Toma evidencia de la problematica.
+4. Se registra un usuario en la plataforma.
+5. El vecino completa un formulario.
+6. Queda en la plataforma registrada.
+7. Se revisa y se solicitan los apoyos.
+8. Se da solucion a la problematica.

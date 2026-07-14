@@ -1,0 +1,18 @@
+Entidad 1: Contrato.
+Para obra publica o proyecto.
+
+Campos:
+ID: NIT o serial del contrato, codigo unico para identificar el contrato.
+Titulo: Entidad contratante, el nombre publico que financia o se adjudica el proyecto.
+Descripcion: Descripcion del proyecto u obra publica que se realizara.
+Fecha: Inicio formal de la ejecucion del contrato.
+
+
+Entidad 2: Alerta.
+Veeduria ciudadana.
+
+Campos:
+ID: Identificador unico de la alerta comunitaria.
+Causa_ID: Categorizar la irregularidad detectada. Por ejemplo; Obra abandonada, elefante blanco, sobre costos o retraso de cronograma.
+Nombre: Contrato_ID, relacion con el contrato asociado.
+Fecha: Fecha y hora en la que se registra el reporte de anomalia el sistema.
