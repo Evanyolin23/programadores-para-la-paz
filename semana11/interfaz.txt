@@ -1,0 +1,13 @@
+La interfaz contara con un boton en la parte lateral izquierda, este servira para rellenar los formularios de las causas:
+-Titulo
+-Fecha
+-Descripcion del problema.
+-Categoria del problema, un menu desplegable.
+-Si va a adjuntar archivos: PDF, MP4, MP3, JPEG, PNG.
+
+Asi como en una revista o periodico, las causas se van a organizar de acuerdo a su tipo y fecha.
+Las problematicas con mayor visibilidad en la pagina se posicionaran arriba como principales.
+
+La vista de las problematicas sera con un titulo grande en negrilla o resaltado, seguido con los detalles de esta y el archivo adjunto debajo.
+y en la esquina izquierda inferior tendra un boton para apoyar la causa, como un Like de facebook.
+

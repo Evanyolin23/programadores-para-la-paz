@@ -1,0 +1,25 @@
+Entidad 1: Incidente.
+
+Campos:
+ID: Identificador unico del reporte. (Número, serial o nombre clave)
+Categoria: El tipo de problema, ejemplo; Un bache, fuga de agua, luminaria.
+Descripcion: Detalle del problema reportado por medio de texto.
+Sector: Donde ocurrio el problema, sin dar una ubicación del denunciante, para proteger la privacidad. Tambien se puede dar una ubicacion aproximada del reporte.
+Estado: Como se encuentra el incidente en tiempo real, ejemplo; Completado, pendiente, en proceso.
+Fecha: Fecha y hora en la que se registro el incidente.
+
+Proposito: 
+Registrar y categorizar los tipos de reportes, infraestructura o servicios publicos, tambien para visibilizar a las comunidades y sus necesidades en tiempo real.
+
+
+Entidad 2: Evidencia.
+
+Campos:
+ID: Identificador unico relacionado con el incidente (Entidad 1), número o serial.
+Tipo: Formato del archivo subido, por ejemplo; Imagen (JPEG, PNG), archivo (PDF, Word, Power Point), video (MP4) o audio (MP3).
+URL: Enlaces seguros hacia el servidor donde se guarda todo.
+Fecha: Fecha y hora en la que se adjuntó el Incidente con su Evidencia.
+
+Proposito:
+Almacenar de forma ordenada los archivos multimedia, fotografias, documentos, videos, que aportan los vecinos denunciantes o las personas denunciantes, para respaldar la veracidad de la incidencia. Facilita el analisis para encontrar una solucion y sirve como prueba material para las entidades publicas.
+

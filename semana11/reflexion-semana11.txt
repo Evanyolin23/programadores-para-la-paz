@@ -1,0 +1,4 @@
+Para promover la participacion se tiene que llevar un registro de los participantes, si no se contara con una base de datos ¿Cómo sabemos que la gente realmente participo si no contamos con evidencia?
+La autenticacion de usuarios se usa para saber quienes son las personas o noticieros o entidades publicas que participan, tambien se usa para prevenir bots o hackers que quieren modificar la informacion y mantener segura la informacion.
+La proteccion de la informacion es lo principal, si no cuidamos a los participantes, ¿cómo van a confiar en la plataforma? no van a poder participar por temor a que sus datos sean publicos, sin la seguridad necesaria la plataforma no funcionaria.
+
